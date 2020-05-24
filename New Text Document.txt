@@ -1,0 +1,2 @@
+This applicatin define auto refresh and spring cloud config.
+With using STS.
